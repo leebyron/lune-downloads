@@ -5,11 +5,11 @@
     <link>https://lune.computer</link>
     <description>Lune browser updates</description>
     <item>
-      <title>Lune 26.1109.1</title>
-      <sparkle:version>26.1109.1</sparkle:version>
-      <sparkle:shortVersionString>26.1109.1</sparkle:shortVersionString>
+      <title>Lune 26.1109.2</title>
+      <sparkle:version>26.1109.2</sparkle:version>
+      <sparkle:shortVersionString>26.1109.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leebyron/lune-downloads/releases/download/v26.1109.1/Lune-26.1109.1-macos-x86_64.dmg" length="180722069" type="application/octet-stream" sparkle:edSignature="KWYzpEB1Lj5Uzym0aK+bSUuJLhW7miIk7EvTjriTCs362D/q2KVaieGPhRoeKFgRTgrjOmF8L5doQV8j8BQPCg==" />
+      <enclosure url="https://github.com/leebyron/lune-downloads/releases/download/v26.1109.2/Lune-26.1109.2-macos-x86_64.dmg" length="180738473" type="application/octet-stream" sparkle:edSignature="KHa/t7d0OWo+ffjcnMTedXIH4N4U8rl8fRfVl+I3FHnIvqdBe1O8adks34gwUl3vnthmNyOAI80ubo+6izTnBA==" />
     </item>
   </channel>
 </rss>

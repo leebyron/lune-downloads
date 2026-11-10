@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
-  "version": "26.1109.1",
-  "tag": "v26.1109.1",
-  "source_commit": "24f6531ae722dfa61e214e04a5efde83bf068f4f",
+  "version": "26.1109.2",
+  "tag": "v26.1109.2",
+  "source_commit": "c423b6919ed0983b2b6b8c64389d401af1d69b04",
   "chromium_version": "158.0.8127.18",
   "minimum_system_version": "13.0",
   "downloads": {
     "arm64": {
-      "url": "https://github.com/leebyron/lune-downloads/releases/download/v26.1109.1/Lune-26.1109.1-macos-arm64.dmg",
-      "filename": "Lune-26.1109.1-macos-arm64.dmg",
+      "url": "https://github.com/leebyron/lune-downloads/releases/download/v26.1109.2/Lune-26.1109.2-macos-arm64.dmg",
+      "filename": "Lune-26.1109.2-macos-arm64.dmg",
       "alias": "Lune-macos-arm64.dmg",
-      "sha256": "7d8b8fa36f5a06d2c63efe080b3bc502b5ca8f4278d86ce80022c6c3eb9f1693",
-      "size": 167305692
+      "sha256": "3be1d6fe37c4e15a3388266969bc9e79db375274d0ffcf0719e4e4c1f4076ba3",
+      "size": 166818111
     },
     "x86_64": {
-      "url": "https://github.com/leebyron/lune-downloads/releases/download/v26.1109.1/Lune-26.1109.1-macos-x86_64.dmg",
-      "filename": "Lune-26.1109.1-macos-x86_64.dmg",
+      "url": "https://github.com/leebyron/lune-downloads/releases/download/v26.1109.2/Lune-26.1109.2-macos-x86_64.dmg",
+      "filename": "Lune-26.1109.2-macos-x86_64.dmg",
       "alias": "Lune-macos-x86_64.dmg",
-      "sha256": "7f7264da96527e95324a660cdf889244d798c691de47865efcdd59ab009bc226",
-      "size": 180722069
+      "sha256": "25f96bc698fb3a4e58bd40259b2da14f92f629d3d9310ff09bdd2811bdbf9861",
+      "size": 180738473
     }
   },
   "assets": {
-    "Lune-26.1109.1-macos-arm64.dmg": {
-      "sha256": "7d8b8fa36f5a06d2c63efe080b3bc502b5ca8f4278d86ce80022c6c3eb9f1693",
-      "size": 167305692
+    "Lune-26.1109.2-macos-arm64.dmg": {
+      "sha256": "3be1d6fe37c4e15a3388266969bc9e79db375274d0ffcf0719e4e4c1f4076ba3",
+      "size": 166818111
     },
     "Lune-macos-arm64.dmg": {
-      "sha256": "7d8b8fa36f5a06d2c63efe080b3bc502b5ca8f4278d86ce80022c6c3eb9f1693",
-      "size": 167305692
+      "sha256": "3be1d6fe37c4e15a3388266969bc9e79db375274d0ffcf0719e4e4c1f4076ba3",
+      "size": 166818111
     },
     "appcast-arm64.xml": {
-      "sha256": "89a4945b72dfef32a8ad807ff75e39230b26e55bc6441bb00b913ce65754c868",
+      "sha256": "b921209c4bddc174cc3a1a28f32111079714f07877dd02301031dc2f1ef13e35",
       "size": 911
     },
-    "Lune-26.1109.1-macos-x86_64.dmg": {
-      "sha256": "7f7264da96527e95324a660cdf889244d798c691de47865efcdd59ab009bc226",
-      "size": 180722069
+    "Lune-26.1109.2-macos-x86_64.dmg": {
+      "sha256": "25f96bc698fb3a4e58bd40259b2da14f92f629d3d9310ff09bdd2811bdbf9861",
+      "size": 180738473
     },
     "Lune-macos-x86_64.dmg": {
-      "sha256": "7f7264da96527e95324a660cdf889244d798c691de47865efcdd59ab009bc226",
-      "size": 180722069
+      "sha256": "25f96bc698fb3a4e58bd40259b2da14f92f629d3d9310ff09bdd2811bdbf9861",
+      "size": 180738473
     },
     "appcast-x86_64.xml": {
-      "sha256": "1a8ef6e5d7d9ee711114ec3900dffee0bd329c0303e5a6c2dc825ddb80f69c82",
+      "sha256": "bce2a01cd1a2dc1e340623244944eb9b62acca497431fb97344ecd22685bddf5",
       "size": 840
     },
     "validation.json": {
-      "sha256": "dcd4b755718d97e7156ec2cd7aaf92665bf815333856b1e98944928fe200a570",
-      "size": 2845
+      "sha256": "8625ffb54d1ec9aee060be508abe2e68b5ceb8072b965ad181addb636d88671c",
+      "size": 4697
     }
   }
 }
